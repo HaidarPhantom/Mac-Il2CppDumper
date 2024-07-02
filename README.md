@@ -4,7 +4,7 @@ First you need to chmod +x Il2CppDumper
 
 Usage:
 
-Il2CppDumper <executable-file> <global-metadata> <output-directory>
+`Il2CppDumper.exe <executable-file> <global-metadata> <output-directory>`
 
 Outputs:
 
